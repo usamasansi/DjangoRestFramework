@@ -18,7 +18,7 @@ Run migrations with python manage.py migrate.
 Start the development server with python manage.py runserver.
 #Django #restframework #Roadmap using #command #prompt:
 
-#pip #install #django
+# pip #install #django
 pip install django
 
 
@@ -54,9 +54,9 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
 ![Capture](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/5b6bba31-0c40-40a9-a5ed-e266824470ee)
-use this #command to #create #directory or #folder for mode:
+# use this #command to #create #directory or #folder for mode:
 python manage.py startapp base
-#create #model #Item:
+# #create #model #Item:
 use this command:
 python manage.py makemigrations
 
@@ -119,7 +119,7 @@ AttributeError: type object 'Item' has no attribute 'object'. Did you mean: 'obj
 
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/951e2e17-8d4c-4415-8a6c-3a2a97203ca4)
 
-#face #error because i missed the "," comma at end of line #code
+# #face #error because i missed the "," comma at end of line #code
 
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/6194719f-a2c1-482c-b1d0-0d85804be8af)
 
@@ -130,19 +130,19 @@ to create #requirements.txt file use this commad:
 pip freeze > requirements.txt
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/84ee28b4-a314-465e-8449-f31b418062c4)
 
-#output of #Django #restframework :
+# output of #Django #restframework :
 http://127.0.0.1:8000/
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/599fd71c-6642-4dd7-90e7-6b16a9abfed3)
 
-for #json type of all data:
+# for #json type of all data:
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/6c041285-b75e-4aad-834a-b21ace110271)
 json type of data:
 http://127.0.0.1:8000/?format=json
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/6afbc935-e300-44ce-a64f-d110630496a6)
 
-#post your data using this url in local host:
+# post your data using this url in local host:
 http://127.0.0.1:8000/add/
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/98c4a3d1-5366-4bc6-94bc-01d8f0a1cdd7)
-#note: Add data in json form.
+# note: Add data in json form.
 
 
