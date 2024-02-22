@@ -16,3 +16,6 @@ Install the necessary dependencies using pip install -r requirements.txt.
 Configure the Django settings file according to your environment (database settings, secret key, etc.).
 Run migrations with python manage.py migrate.
 Start the development server with python manage.py runserver.
+#Django #restframework #Roadmap using #command #prompt:
+![Capture](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/5b6bba31-0c40-40a9-a5ed-e266824470ee)
+
