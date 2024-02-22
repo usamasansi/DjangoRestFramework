@@ -143,5 +143,6 @@ http://127.0.0.1:8000/?format=json
 #post your data using this url in local host:
 http://127.0.0.1:8000/add/
 ![image](https://github.com/usamasansi/DjangoRestFramework/assets/97821444/98c4a3d1-5366-4bc6-94bc-01d8f0a1cdd7)
+#note: Add data in json form.
 
 
